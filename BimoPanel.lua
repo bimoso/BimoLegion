@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://bimo-panel-controller-dmck2.ondigitalocean.app/bimo-panel-loader'))()
+loadstring(game:HttpGet('https://bimo-panel-controller-dmck2.ondigitalocean.app/api/bimo-panel-loader'))()
